@@ -11,7 +11,7 @@ Qcloud IM SDK for PHP
 安装
 ----
 
-运行环境要求 PHP 7.2 及以上版本，以及
+运行环境要求 PHP 7.3 及以上版本，以及
 [cURL](http://php.net/manual/zh/book.curl.php)。
 
 #### composer 安装
@@ -19,5 +19,5 @@ Qcloud IM SDK for PHP
 如果使用标准的包管理器 composer，你可以很容易的在项目中添加依赖并下载：
 
 ```bash
-composer require pianqifei/qcloud-im-sdk-php
+composer require wanglijia/qcloud-im-sdk-php
 ```
